@@ -1,10 +1,2 @@
 # Investigate-a-Dataset
-Project Overview: 
-In this project,  I have analyzed a dataset and then communicate my findings of it. I used the Python libraries NumPy, pandas, and Matplotlib to make my analysis easier.   
-
-What do I need to install?  
-Python, plus the following libraries: 
-* pandas 
-* NumPy 
-* Matplotlib
-* csv
+In this project, the dataset containing the information about crimes in chicago are explored. The primary objective of the project to make an attempt to explore the dataset and finds the relationship between different attributes. The dataset is called as “Chicago_Crimes_2005_to_2007” and contains around 1000000 tuples and 25 attributes including numeric and categorical. The dataset is downloaded from Kaggle. In this project, the crimes are analyzed over the period, crime type and location. The results and findings are presented in the report.
